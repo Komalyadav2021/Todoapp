@@ -16,7 +16,7 @@ This project is part of **Module 5 Task 1** and demonstrates a clean implementat
 ## **Tools and Technologies**
 - **Frontend Framework:** React.js
 - **Language:** JavaScript (ES6+)
-- **Styling:** CSS3
+- **Styling:** CSS3 and bootstrap
 - **Package Manager:** npm
 - **Version Control:** Git & GitHub
 - **Environment:** Node.js
